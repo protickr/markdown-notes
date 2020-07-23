@@ -44,7 +44,7 @@ _italic text_
 > `        1. Sub sub item`  
 
 \
-_double spaces denotes new line_  
+**_double spaces denotes new line_**  
 
 ## Extended Implementaion of MarkDown
 
