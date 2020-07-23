@@ -5,14 +5,12 @@ _italic text_
 > `_Italic Text_ or *Italic Text*`  
 
 \
-*BOLD Text*
-> `*BOLD text*`  
+**BOLD Text**
+> `**BOLD text**`  
 
 \
 **_BOLD Italic Text_**
 > `**_BOLD Italic Text_**`  
-
-\
 
 # Header 1
 > `# Header 1`  
@@ -31,11 +29,10 @@ _italic text_
 [Reference Link Text]: [https://github.com]  
 > `[Reference Link Text]: [https://github.com]`  
 > [Reference Link Text]  
-
 \
 >`[Reference Image ALT Text]: (https://github.com/some.jpg)`  
 > `![Reference Image ALT Text]`  
-
+  
 \
 >Blokc quotes  
 >`> Block Quotes`  
@@ -49,9 +46,7 @@ _italic text_
 > `        1. Sub sub item`  
 
 \
-_double spaces denotes new line_
-
-\
+_double spaces denotes new line_  
 
 ## Extended Implementaion of MarkDown
 
@@ -61,7 +56,7 @@ Table
 > `Coontent 1|Content 2`  
 
 Code  
-> `\`Inline code\``  
+> ``Inline code``  
 
 Crossed ~~out~~ text  
 > `~~Crossed Out Text~~`  
