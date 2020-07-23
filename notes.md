@@ -1,7 +1,6 @@
 # Core Syntax  
 
-_italic text_
-\
+_italic text_  
 > `_Italic Text_ or *Italic Text*`  
 
 \
@@ -32,9 +31,9 @@ _italic text_
 \
 >`[Reference Image ALT Text]: (https://github.com/some.jpg)`  
 > `![Reference Image ALT Text]`  
-  
+
 \
->Blokc quotes  
+>Block quotes  
 >`> Block Quotes`  
 
 * List Item
@@ -56,7 +55,7 @@ Table
 > `Coontent 1|Content 2`  
 
 Code  
-> ``Inline code``  
+> `` `Inline code` ``  
 
 Crossed ~~out~~ text  
 > `~~Crossed Out Text~~`  
