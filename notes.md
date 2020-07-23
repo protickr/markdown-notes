@@ -62,9 +62,9 @@ Crossed ~~out~~ text
 
 Syntaxt highlighting for specific language  
 
->`````JavaScript
+>`` ```JavaScript
 > codes  
->``` ``  
+>`` ```  
 
 Task List  
 >`-[x] completed task`  
