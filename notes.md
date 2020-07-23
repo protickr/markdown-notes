@@ -31,7 +31,7 @@ _italic text_
 \
 >`[Reference Image ALT Text]: (https://github.com/some.jpg)`  
 > `![Reference Image ALT Text]`  
-
+  
 \
 >Block quotes  
 >`> Block Quotes`  
